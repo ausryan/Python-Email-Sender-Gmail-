@@ -1,5 +1,5 @@
 #A simple way of sending emails with Python (via Gmail)
-#Ryan Jackson
+#Ryan
 #Version 1.0
 #29/01/2019
 
